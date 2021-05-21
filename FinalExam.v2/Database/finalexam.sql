@@ -31,7 +31,7 @@ CREATE TABLE `User`(
 
 INSERT INTO `User`(FullName					, Email				 ,`PassWord`	, `Role`, ExpInYear, ProjectId, ProSkill) 
 VALUES
-					( "Pham Cong Bao"	,	"baopc@vti.com.vn"	, 	"PassWord1"	,	"Manager"  , 9        ,1,  null),
+					( "Pham Cong Bao"	,	"baopc@vti.com.vn"	, 	"B1233233"	,	"Manager"  , 9        ,1,  null),
                     ( "Pham Hoang Cuong",	"cuongph@vti.com.vn", 	"PassWord2"	,	"Manager"  , 4        ,4,  null),
                     ( "Nguyen Van Toan"	,	"Toannv@vti.com.vn"	, 	"PassWord3"	,	"Manager"  , 8        ,3,  null),
                     ( "Nguyen Cong Phuong",	"PhuongNc@vti.com.vn", 	"PassWord4"	,	"Manager"  , 7        ,2,  null),
